@@ -1,5 +1,21 @@
-*.class
-*.log
+# Compiled files
+target/
+project/target/
+project/project/
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# sbt
+.bsp/
+.metals/
+.idea/
+*.class
+*.jar
+
+# Dataset (troppo grandi per GitHub)
+*.csv
+
+# Output jobs
+risultato*.txt
+
+# OS
+.DS_Store
+Thumbs.db
