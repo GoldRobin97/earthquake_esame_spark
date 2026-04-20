@@ -21,17 +21,15 @@ con oltre 10.000 giorni di co-occorrenza nel periodo 1990-2023.
 
 ## Struttura del progetto
 
-progetto_esame/
+earthquake-spark/
 ├── build.sbt
 ├── project/
 │   ├── build.properties
 │   └── plugins.sbt
-├── src/
-│   └── main/
-│       └── scala/
-│           └── EarthquakeAnalysis.scala
-├── README.md          
-└── .gitignore         
+└── src/
+    └── main/
+        └── scala/
+            └── EarthquakeAnalysis.scala  
 
 
 ## Requisiti
