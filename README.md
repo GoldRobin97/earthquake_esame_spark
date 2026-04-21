@@ -41,6 +41,11 @@ earthquake-spark/
 - Account Google Cloud con progetto attivo e fatturazione abilitata
 - Google Cloud CLI (`gcloud`) installato e autenticato
 
+## Dataset
+I dataset non sono inclusi nel repository per via delle dimensioni.
+Possono essere scaricati da Kaggle:
+- https://www.kaggle.com/datasets/mattiapistoia/dataset-earthquakes
+
 ## Compilazione
 
 ```bash
